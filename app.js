@@ -6,7 +6,9 @@
   "use strict";
 
   const $ = (s, el = document) => el.querySelector(s);
-  const $$ = (s, el = document) => Array.from(el.querySelectorAll(const fmt = n =>
+  const $$ = (s, el = document) => Array.from(el.querySelectorAll(s));
+
+  const fmt = n =>
   Math.round(Number(n || 0)).toLocaleString("fr-FR") + "€";
 
   const esc = s =>
