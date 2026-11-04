@@ -47,7 +47,7 @@
 
       <article class="card about-card">
         <p class="badge">BIENVENUE DANS LE CORNER</p>
-        <h3>🏴‍☠️ CORNER 69 — LA RÉF DU SECTEUR</h3>
+        <h3>CORNER 69 🥇 — LA RÉF DU MOMENT</h3>
         <p class="muted">
           La famille, bienvenue dans le corner. 🤝
         </p>
@@ -81,12 +81,12 @@
       </article>
 
       <article class="card about-card">
-        <p class="badge">COMMENT COMMANDER</p>
+        <p class="badge">COMMENT COMMANDER ?</p>
         <h3>💬 Commander en quelques minutes</h3>
 
         <ol class="about-steps">
           <li>Parcourez le menu et ouvrez la fiche du produit qui vous intéresse.</li>
-          <li>Choisissez votre variante et la quantité, puis ajoutez au panier.</li>
+          <li>Choisissez votre produit et la quantité, puis ajoutez au panier.</li>
           <li>Renseignez vos informations dans la demande de commande.</li>
           <li>Validez : votre demande nous est transmise immédiatement.</li>
         </ol>
