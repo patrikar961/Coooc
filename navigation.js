@@ -81,7 +81,7 @@
       </article>
 
       <article class="card about-card">
-        <p class="badge">COMMENT COMMANDER ?</p>
+        <p class="badge">COMMENT COMMANDER ? </p>
         <h3>💬 Commander en quelques minutes</h3>
 
         <ol class="about-steps">
