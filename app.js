@@ -211,7 +211,7 @@
                 ${multi ? "À partir de " : ""}${fmt(minPrice(p))}
               </span>
               <button class="btn" data-detail="${p.id}" type="button">
-                ${multi ? "Choisir une variante" : "Ajouter au panier"}
+                ${multi ? "Voir produit" : "Ajouter au panier"}
               </button>
             </article>
           `;
