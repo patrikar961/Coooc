@@ -6,13 +6,8 @@
   "use strict";
 
   const $ = (s, el = document) => el.querySelector(s);
-  const $$ = (s, el = document) => Array.from(el.querySelectorAll(s));
-
-  const fmt = n =>
-    Number(n || 0).toLocaleString("fr-FR", {
-      minimumFractionDigits: 2,
-      maximumFractionDigits: 2
-    }) + " " + SHOP.currency;
+  const $$ = (s, el = document) => Array.from(el.querySelectorAll(const fmt = n =>
+  Math.round(Number(n || 0)).toLocaleString("fr-FR") + "€";
 
   const esc = s =>
     String(s ?? "").replace(/[&<>"']/g, c => ({
