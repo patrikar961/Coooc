@@ -228,7 +228,7 @@
       event.preventDefault();
       showPage(button.dataset.goto);
     });
-  });
+  }); 
 
   /* Bouton Voir le menu */
   document.querySelectorAll('.hero a[href="#catalogue"]').forEach(link => {
