@@ -105,7 +105,7 @@ const PRODUCTS = [
    {
         type: "video",
         src: "assets/video/olive.mp4",
-        poster: "assets/img/oc.webp",
+        poster: "assets/img/oc.JPG",
         alt: "Vidéo du produit"
    }
 
@@ -163,7 +163,7 @@ const PRODUCTS = [
        {
         type: "video",
         src: "assets/video/vvsv.mov",
-        poster: "assets/img/vvsc.webp",
+        poster: "assets/img/vvsc.JPG",
         alt: "Vidéo du produit"
       }
 
